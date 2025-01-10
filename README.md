@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **naveendone/naveendone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://readme-typing-svg.demolab.com/demo/?font=Jersey+10&color=F71111&lines=Hai%2C+This+is+Naveen+Done;Python+developer+%F0%9F%9A%A9)

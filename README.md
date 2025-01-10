@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&pause=1000&color=F71111&width=435&lines=Hai%2C+This+is+Naveen+Done;Python+developer+%F0%9F%9A%A9)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=40&pause=500&color=65F7AD&background=000000&width=435&height=100&lines=Hi%2C+I'm+Naveen+Done;A+Python+full+stack+developer" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋 there Naveen Done here</h1>
-<h3 align="center">A passionate Python Full Stack Developer from India</h3>
+<h3 align="center"> Python Full Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
